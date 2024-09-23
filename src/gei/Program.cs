@@ -11,6 +11,7 @@ using OctoshiftCLI.Extensions;
 using OctoshiftCLI.Factories;
 using OctoshiftCLI.GithubEnterpriseImporter.Factories;
 using OctoshiftCLI.Services;
+using OctoshiftCLI.GithubEnterpriseImporter.Commands.GetMigrationStatus;
 
 namespace OctoshiftCLI.GithubEnterpriseImporter
 {
